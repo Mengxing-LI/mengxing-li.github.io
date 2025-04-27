@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Mengxing LI
+title: about
 permalink: /
 subtitle:
 
